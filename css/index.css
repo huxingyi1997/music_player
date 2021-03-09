@@ -350,3 +350,6 @@ dd {
   top: 50%;
   z-index: 995;
 }
+[v-cloak] {
+  display: none;
+}
